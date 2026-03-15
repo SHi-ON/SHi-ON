@@ -7,7 +7,7 @@ I build (or help build) autopietic and agentic AI systems, ML/AI research, and i
 ## Selected Open Source
 
 - ⚛️ [si](https://github.com/Aureuma/si) - AI-first execution layer for coding agents, secure workflows, and integrations.
-- 🌊 [surf](https://github.com/Aureuma/surf) - Browser runtime for `si` with Playwright, persisted profiles, and visual browser sessions.
+- 🌊 [surf](https://github.com/Aureuma/surf) - Browser runtime with Playwright, persisted profiles, and visual browser sessions.
 - 🖥️ [remote-control](https://github.com/Aureuma/remote-control) - Browser-accessible terminal remote control with tmux or TTY attach.
 - 🐈 [GitKat](https://github.com/Aureuma/GitKat) - Rust CLI for bulk Git and GitHub maintenance, audits, and history rewriting.
 - 🛸 [maclev](https://github.com/Aureuma/maclev) - Lightweight always-on-top browser for macOS built with SwiftUI and WebKit.
