@@ -11,7 +11,7 @@ I build (or help build) autopietic and agentic AI systems, ML/AI research, and i
 - 🌊 [surf](https://github.com/Aureuma/surf) - Browser runtime with Playwright, persisted profiles, and visual browser sessions.
 - 🐈 [GitKat](https://github.com/Aureuma/GitKat) - Rust CLI for bulk Git and GitHub maintenance, audits, and history rewriting.
 - 🧰 [mongo-taskqueue](https://github.com/SHi-ON/mongo-taskqueue) - MongoDB-backed task queue for scheduling, retries, deduplication.
-- 🛸 [maclev](https://github.com/Aureuma/maclev) - Lightweight always-on-top browser for macOS.
+- 🛸 [MacLev](https://github.com/Aureuma/maclev) - Lightweight always-on-top browser for macOS.
 - 📣 [Sociomancer](https://github.com/SHi-ON/Sociomancer) - Social media kit for lightweight content and asset workflows.
 - 🤖 [text-to-cad-telegram-bot](https://github.com/SHi-ON/text-to-cad-telegram-bot) - Telegram bot that turns text prompts into 3D CAD models.
 - 📤 [TrelloCSVYouTrack](https://github.com/AzdamAI/TrelloCSVYouTrack) - Free Trello board CSV exporter with planned YouTrack import support.
