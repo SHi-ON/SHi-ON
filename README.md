@@ -7,21 +7,22 @@ I build (or help build) autopietic and agentic AI systems, ML/AI research, and i
 ## Selected Open Source
 
 - ⚛️ [si](https://github.com/Aureuma/si) - AI-first execution layer for coding agents, secure workflows, and integrations.
-- 🌊 [surf](https://github.com/Aureuma/surf) - Browser runtime with Playwright, persisted profiles, and visual browser sessions.
 - 🖥️ [remote-control](https://github.com/Aureuma/remote-control) - Browser-accessible terminal remote control with tmux or TTY attach.
+- 🌊 [surf](https://github.com/Aureuma/surf) - Browser runtime with Playwright, persisted profiles, and visual browser sessions.
 - 🐈 [GitKat](https://github.com/Aureuma/GitKat) - Rust CLI for bulk Git and GitHub maintenance, audits, and history rewriting.
-- 🛸 [maclev](https://github.com/Aureuma/maclev) - Lightweight always-on-top browser for macOS built with SwiftUI and WebKit.
-- 🏎️ [ManeuverGPT](https://github.com/SHi-ON/ManeuverGPT) - IROS 2025 project on agentic control for safe autonomy.
 - 🧰 [mongo-taskqueue](https://github.com/SHi-ON/mongo-taskqueue) - MongoDB-backed task queue for scheduling, retries, deduplication.
-- 📄 [ZibaResume](https://github.com/SHi-ON/ZibaResume) - Clean LaTeX resume template with a polished sample layout.
-- 💹 [Libra](https://github.com/SHi-ON/Libra) - CLI for tracking new CoinMarketCap listings and watchlist activity.
-- 🖨️ [PdfReprinter](https://github.com/SHi-ON/PdfReprinter) - Small Java utility that reads and reprints PDFs with iText.
+- 🛸 [maclev](https://github.com/Aureuma/maclev) - Lightweight always-on-top browser for macOS.
 - 📣 [Sociomancer](https://github.com/SHi-ON/Sociomancer) - Social media kit for lightweight content and asset workflows.
 - 🤖 [text-to-cad-telegram-bot](https://github.com/SHi-ON/text-to-cad-telegram-bot) - Telegram bot that turns text prompts into 3D CAD models.
+- 📤 [TrelloCSVYouTrack](https://github.com/AzdamAI/TrelloCSVYouTrack) - Free Trello board CSV exporter with planned YouTrack import support.
+- 💹 [Libra](https://github.com/SHi-ON/Libra) - CLI for tracking new CoinMarketCap listings and watchlist activity.
+- 🖨️ [PdfReprinter](https://github.com/SHi-ON/PdfReprinter) - Small Java utility that reads and reprints PDFs with iText.
+- 📄 [ZibaResume](https://github.com/SHi-ON/ZibaResume) - Clean LaTeX resume template with a polished sample layout.
 - 🌸 [SaffronCode](https://github.com/SHi-ON/SaffronCode) - Curated coding, terminal, Git, Python, C/C++, and LaTeX tips.
 
 ## Research
 
+- 🏎️ [ManeuverGPT](https://github.com/SHi-ON/ManeuverGPT) - IROS 2025 project on agentic control for safe autonomy.
 - 🔎 [Wheatly](https://github.com/SHi-ON/Wheatly) - Lucene and BERT-based passage reranking and neural search experiments.
 - 🕸️ [Konigsberg7](https://github.com/SHi-ON/Konigsberg7) - Knowledge graph and data science research material.
 - 😊 [EmoRecom](https://github.com/SHi-ON/EmoRecom) - Emotion-aware recommendation engine using facial expression detection.
