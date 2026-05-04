@@ -1,6 +1,6 @@
 # Hello Simulation!
 
-I build (or help build) autopietic and agentic AI systems, ML/AI research, and infrastructure.
+I build (or help build) autopoietic and agentic AI systems, ML/AI research, and infrastructure.
 
 - Website: [shawn.azdam.com](https://shawn.azdam.com)
 
