@@ -22,7 +22,7 @@ I build (or help build) autopoietic and agentic AI systems, ML/AI research, and 
 
 ## Research
 
-- 🏎️ [ManeuverGPT](https://github.com/SHi-ON/ManeuverGPT) - IROS 2025 project on agentic control for safe autonomy.
+- 🏎️ [ManeuverGPT](https://github.com/SHi-ON/ManeuverGPT) - Oral presentation-selected and published in IROS 2025 on agentic control for safe autonomy.
 - 🔎 [Wheatly](https://github.com/SHi-ON/Wheatly) - Lucene and BERT-based passage reranking and neural search experiments.
 - 🕸️ [Konigsberg7](https://github.com/SHi-ON/Konigsberg7) - Knowledge graph and data science research material.
 - 😊 [EmoRecom](https://github.com/SHi-ON/EmoRecom) - Emotion-aware recommendation engine using facial expression detection.
