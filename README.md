@@ -1,4 +1,4 @@
-# Hello Simulation!
+# Hello Simulation
 
 I build (or help build) autopoietic and agentic AI systems, ML/AI research, and infrastructure.
 
